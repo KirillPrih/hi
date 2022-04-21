@@ -1,0 +1,21 @@
+.nh
+{
+font-size: 100px;
+}
+.we
+{
+font-size: 80px;
+}
+@media(max-width:768px){
+.nh
+{
+font-size: 50px;
+}   
+.we
+{
+font-size: 40px;
+display: flex; flex-direction: column;
+}
+}
+
+
